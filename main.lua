@@ -53,7 +53,7 @@ RegisterNUICallback('NUIFocusOff', function()
     end
 end)
 
-print("BLACK x Scripts© - Since 2022")
-print("   _______________________")
-print("  | discord.gg/Sdsnu6HfKA |")
+print("BLACK x Scripts - Since 2022")
+print("----------------------------")
+print("   discord.gg/Sdsnu6HfKA    ")
 
