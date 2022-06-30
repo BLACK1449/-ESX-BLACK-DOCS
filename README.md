@@ -5,7 +5,7 @@ BLACK x Scripts© - Since 2022
 
 # Controls:
 # F11: Öffnen / Open  
-# ESC: Schliessen / Close (Wenn Sich Das Menu Nicht Schliest: Einmal Irgendwo Ausserhalb Des Fenster Drücken! --> Dann ESC)
+# ESC: Schliessen / Close
 # (Wenn Sich Das Menu Nicht Schliest: Einmal Irgendwo Ausserhalb Des Fenster Drücken! --> Dann ESC)
 # (If the menu doesn't close: Press once somewhere outside the window! --> Then ESC)
 
