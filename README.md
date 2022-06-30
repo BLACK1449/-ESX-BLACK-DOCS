@@ -7,7 +7,7 @@ BLACK x Scripts© - Since 2022
 # F11: Öffnen / Open  
 # ESC: Schliessen / Close
 
-
+ Preview: https://cdn.discordapp.com/attachments/978984491882270730/992068598279450664/BLACK_DOCS.png
 
 Dies Ist Ein Simples Script Das Ermöglicht Google Dateien Ingame anzuzeigen.
 
