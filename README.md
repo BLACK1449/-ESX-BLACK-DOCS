@@ -3,10 +3,8 @@ This Is A Simple Script That Allows To Display Google Files Ingame. note: This i
 
 
 Controls:
-
 f11: Open 
 ESC: Close
-============
 
 [DE]
 
