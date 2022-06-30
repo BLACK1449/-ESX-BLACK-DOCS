@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'BLACK x Scripts'
+author 'BLACK x Scripts© - Since 2022'
 description 'Google Docs Für FiveM - BLACK x Scripts'
 version '1.7.0'
 
