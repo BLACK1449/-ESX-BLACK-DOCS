@@ -5,13 +5,13 @@ BLACK x Scripts© - Since 2022
 
 # Controls:
 # F11: Öffnen / Open  
-# ESC: Schliessen / Close
+# ESC: Schliessen / Close (Wenn Sich Das Menu Nicht Schliest: Einmal Irgendwo Ausserhalb Des Fenster Drücken! --> Dann ESC)
+# (Wenn Sich Das Menu Nicht Schliest: Einmal Irgendwo Ausserhalb Des Fenster Drücken! --> Dann ESC)
+# (If the menu doesn't close: Press once somewhere outside the window! --> Then ESC)
 
  Preview: https://cdn.discordapp.com/attachments/978984491882270730/992068598279450664/BLACK_DOCS.png
 
 Dies Ist Ein Simples Script Das Ermöglicht Google Dateien Ingame anzuzeigen.
-
- 
 
 # [DE] Was wird Unterstützt?
 - Google Docs
