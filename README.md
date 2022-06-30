@@ -1,9 +1,11 @@
 # ESX-BLACK-DOCS
-This Is A Simple Script That Allows To Display Google Files Ingame. note: This is my first script. there may be individual bugs :)
+This Is A Simple Script That Allows To Display Google Files Ingame. note: This is my first script. there may be individual bugs :) 
+
+BLACK x Scripts© - Since 2022
 
 # Controls:
-# f11: Open 
-# ESC: Close
+# F11: Öffnen / Open  
+# ESC: Schliessen / Close
 
 [DE]
 
