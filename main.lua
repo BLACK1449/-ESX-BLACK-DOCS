@@ -34,7 +34,7 @@ Citizen.CreateThread(function()
         while true do
             if IsControlJustReleased(0, 344) then 
                 if showUi == false then 
-                    if ESX.PlayerData.job.name ~= nil and ESX.PlayerData.job.name == 'police' or 'lssd' then --[!] Job 
+                    if ESX.PlayerData.job.name ~= nil and ESX.PlayerData.job.name == 'police' --[!] Job 
                     SetNuiFocus(true, true)
                     SendNUIMessage({type = "enable"})
                     showUi = true;
