@@ -88,4 +88,7 @@ Resize: style.css > customize
 # [EN] Extra:
 - All languages
 - ESX only
-- CC: https://abo.nemesus.de, https://www.youtube.com/watch?v=IgLkmR-hKLc 
+
+# [DE] - [EN]
+
+Extra: - CC: https://abo.nemesus.de, https://www.youtube.com/watch?v=IgLkmR-hKLc 
